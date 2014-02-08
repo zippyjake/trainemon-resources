@@ -24,6 +24,7 @@
     <object>objects\ooak</object>
     <object>objects\otridigin</object>
     <object>objects\osprity</object>
+    <object>objects\object7</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
